@@ -35,6 +35,11 @@ html {
  }
 
 
+ .bg1{
+    background-color: black;
+    height: 5rem;
+}
+
 .hero{
     margin-bottom: 0rem;
     background-color: ;
@@ -141,6 +146,10 @@ html {
   .texto{
       
     padding: 4rem;
+    }
+    .bg1{
+        background-color: black;
+        height: 10rem;
     }
    
 }
